@@ -1,1 +1,1 @@
-Note: Incomplete Project Deployment left 
+Note: Incomplete Project Deployment left along with UI
